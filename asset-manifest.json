@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Akhil/static/css/main.5d48f617.css",
+    "main.js": "/Akhil/static/js/main.3b0c40c8.js",
+    "static/media/TheOcean.jpg": "/Akhil/static/media/TheOcean.c0a7530d278b69b79ba5.jpg",
+    "index.html": "/Akhil/index.html",
+    "main.5d48f617.css.map": "/Akhil/static/css/main.5d48f617.css.map",
+    "main.3b0c40c8.js.map": "/Akhil/static/js/main.3b0c40c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d48f617.css",
+    "static/js/main.3b0c40c8.js"
+  ]
+}
